@@ -4,11 +4,13 @@
 ### São José, 2021
 
 ### Qualificações Técnicas
+* Curso Web Moderno (JavaScript, html e Css) - Cod3r
+* Curso JavaScript - Gustavo Guanabara
 
 ### Formação Acadêmica
 * Escola S - Segundo ano do ensino médio (Cursando)
 * Técnico em desenvolvimento de sistemas (Cursando)
 
 ### Idiomas
-* <b> Ingles (intermediário) </b>
-* <b> Espanhol (básico) </b>
+* Ingles (intermediário)
+* Espanhol (básico)
