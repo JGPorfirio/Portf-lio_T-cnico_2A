@@ -3,6 +3,17 @@
 ### João Guilherme da Silva Porfirio, 17 anos
 ### São José, 2021
 
+### Perfil Profissional e Habilidades
+* Pontualidade 
+* Criatividade
+* Organização
+* Comunicação
+* Colaboração
+* Adaptabilidade
+* Receptividade a feedback
+* Liderança
+* Trabalho em equipe
+
 ### objetivo profissional
 * Procura de primeiro emprego
 
