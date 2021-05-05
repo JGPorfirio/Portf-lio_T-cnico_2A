@@ -14,7 +14,7 @@
 * Liderança
 * Trabalho em equipe
 
-### objetivo profissional
+### Objetivo profissional
 * Procura de primeiro emprego
 
 ### Qualificações Técnicas
@@ -28,7 +28,7 @@
 * Escola S - Segundo ano do ensino médio (Cursando)
 * Técnico em desenvolvimento de sistemas (Cursando)
 
-### experiência profissional
+### Experiência profissional
 * Nenhuma
 
 ### Idiomas
