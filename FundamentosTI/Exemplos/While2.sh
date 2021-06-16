@@ -14,3 +14,10 @@ do
                 ;;
    esac
 done< myfile.txt
+
+myfile.txt:
+this file is called myfile.txt and we are using it as an example input.
+hello
+gday
+bonjour
+hola
