@@ -1,0 +1,56 @@
+#!/bin/bash  # Interpretador shell
+var=$(ls -ld $1) # $1 é o primeiro argumento enviado para o script
+tam=${var:0:1} # cortar a minha string / ${nome_variavel:inicio:fim}
+if [ $tam = 'd' ] # Se $tam for igual a D
+then # Faça
+        echo "é diretório" # Printa "é diretório"
+else # Se não
+        echo "é arquivo" # Printa "é arquivo"
+fi # Fechar o IF
+_______________________________________________________________
+LOOP:
+#!/bin/bash # Interpretador shell
+teste=0 # Variavel teste é igual a 0
+for i in $( ls ) # Para i em $(listar arquivo)
+do #Faça
+        if [ $i == $1 ] # Se $i for igual $1
+        then # Faça
+                teste=1 # A variavel teste é igual a 1
+                echo "Aquivo já existe" # Printa "Aquivo já existe"
+        fi # Fecha o IF
+done # Feito
+
+if [ $teste -eq 0 ] # Se $teste for menor que 0 
+then # Faça
+        echo "Criando arquivo $1" # Printa "Criando arquivo $1"
+        touch $1 # Cria arquivo $1
+fi # Fechar o IF
+____________________________
+VETOR:
+#!/bin/bash # Interpretador shell
+var=$(ls) # lista o arquivo 
+var1=${var/$1} # $1 é o primeiro argumento enviado para o script
+if [[ $var != $var1 ]] # Se $var for diferente de $var1
+then # Faça
+	echo "O arquivo existe" # Printa "O arquivo existe"
+else # Se não
+	echo "Criando o arquivo $1 ..." # Printa "Criando o arquivo $1 ..."
+	touch $1 # Cria arquivo $1
+fi # Fechar o IF
+______________________________________________________________________
+#!/bin/bash # Interpretador shell
+var=$(cat /etc/passwd | grep $1) # vai pesquisar se o vetor $1 esta dentro do cat /etc/passwd
+if [ -z $var ] # Se a variavel estiver vazia
+then # Faça
+        echo  "O usuário n existe no sistema" # Printa "O usuário n existe no sistema"
+else # Se não
+        echo "O usuário já está cadastrado" # Printa "O usuário já está cadastrado"
+fi # Fechar o IF
+______________________________________________________________________
+#!/bin/bash # Interpretador shell
+if [ -z $1 ] # Se a variavel estiver vazia 
+then # Faça
+    echo "Erro, arquivo faltando" # Printa "Erro, arquivo faltando"
+else # Se não
+    cat $1 | grep -i "incerteza" # opção -i ignora a diferença entre maiúsculo e minúsculo
+fi # Fechar o IF
