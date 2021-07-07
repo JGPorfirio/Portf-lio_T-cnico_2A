@@ -1,3 +1,4 @@
+# QUESTAO 1
 #!/bin/bash  # Interpretador shell
 var=$(ls -ld $1) # $1 é o primeiro argumento enviado para o script
 tam=${var:0:1} # cortar a minha string / ${nome_variavel:inicio:fim}
@@ -54,3 +55,36 @@ then # Faça
 else # Se não
     cat $1 | grep -i "incerteza" # opção -i ignora a diferença entre maiúsculo e minúsculo
 fi # Fechar o IF
+
+
+# QUESTAO 2
+
+# ls*.sh
+
+# QUESTAO 3
+
+#!/bin/bash
+if [ $1 -gt $2 ]
+then 
+	echo" $1 é maior que $2"
+elif [ $2 -gt $1 ]
+then
+	echo" $2 é maior que $1"
+elif [ $1 -eq $2 ]
+then
+	echo" Os numeros se equivalem"
+fi
+
+# QUESTAO 4
+
+#!/bin/bash
+if [ $1 -eq $0 ]
+then 
+	echo" $1 é Nulo"
+elif [ $1 -gt 0 ]
+then
+	echo" $1 é Positivo"
+elif [ $1 -lt 0 ]
+then
+	echo" $1 é Negativo"
+fi
