@@ -1,16 +1,16 @@
 QUESTÃO 1
 
 #!/bin/bash # Interpretador shell
-valor=$(cut -d":" -f3 /etc/passwd)
+valor=$(cut -d":" -f3 /etc/passwd) # Variavel valor é igual a $(cut -d":" -f3 /etc/passwd)
 numero_user=0 # A variavel numero_user é igual a 0
-for i in $valor
+for i in $valor # Para ir em $valor
 do # Faça
-        if [[ $i -gt 999 && $i -lt 2000 ]]
-        then
-                numero_user=$((numero_user+1))
-        fi
+        if [[ $i -gt 999 && $i -lt 2000 ]] # Se $1 for menor que 999 e $1 maior que 2000 
+        then # Faça
+                numero_user=$((numero_user+1)) # A variavel numero_user é igual a mesma variavel somoda com 1.
+        fi # Fecha o IF
 done # Feito
-echo $numero_user 
+echo $numero_user # Printa $numero_user
 
 QUESTÃO 2
 
@@ -29,3 +29,14 @@ Lista_Frutas
 11 Graviola 3,80
 
 ------------------------------------------------------
+LETRA A
+#!/bin/bash
+cut -d" " -f2 Lista_Frutas
+
+LETRA B
+#!/bin/bash
+cut -d" "f -f2,3 Lista_Frutas
+
+LETRA C
+#!/bin/bash
+cut -d" " -f2,3 Lista_Frutas | sort
