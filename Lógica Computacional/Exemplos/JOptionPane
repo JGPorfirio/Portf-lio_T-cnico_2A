@@ -1,0 +1,19 @@
+import javax.swing.JOptionPane;
+
+class Main {
+  public static void main(String[] args) {
+
+    String nome = JOptionPane.showInputDialog("Digite seu nome!");
+    //JOptionPane.showMessageDialog(null, nome);
+
+    int idade = Integer.parseInt(JOptionPane.showInputDialog(null,"Digite seu ano de nascimento!"));
+    //JOptionPane.showMessageDialog(null, idade);
+
+    int idadeAtual = 2021 - idade;
+    //JOptionPane.showMessageDialog(null, idadeAtual);
+
+    String nomePlus = nome+" sua idade atual é "+idadeAtual;
+    JOptionPane.showMessageDialog(null, nomePlus);
+
+  }
+}
