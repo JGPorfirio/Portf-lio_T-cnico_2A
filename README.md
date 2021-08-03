@@ -5,8 +5,23 @@
 
 ## Fundamentos de TI
 
-- [Exemplo de codigo que lista os usuarios](FundamentosTI/Exemplos/teste1.sh)
-- [Exemplo de codigo para ver permissoes do usuario dono](FundamentosTI/Exemplos/teste2.sh)
+- [Script que lista os usuarios](FundamentosTI/Exemplos/teste1.sh)
+- [Script para ver permissoes do usuario dono](FundamentosTI/Exemplos/teste2.sh)
+- [Script vetor](FundamentosTI/Exemplos/Vetor3.sh)
+- [Script while](FundamentosTI/Exemplos/While.sh)
+- [Script if/else](FundamentosTI/Exemplos/pwrd.sh)
+- [Script Case](FundamentosTI/Exemplos/talk.sh)
+- [Script For](FundamentosTI/Exemplos/tabuada.sh)
+- [Script Fatorial](FundamentosTI/Exemplos/fatorial.sh)
+
+## Logica Computacional
+
+- [Estrutura de Repetição](Lógica Computacional/Exemplos/Estrutura_de_Repetição)
+- [If/Else + Scanner](Lógica Computacional/Exemplos/IF_e_Else+Scanner)
+- [JOptionPane](Lógica Computacional/Exemplos/JOptionPane)
+- [Loop infinito](Lógica Computacional/Exemplos/Loop infinito)
+- [Primeiras aplicação em Java](Lógica Computacional/Exemplos/Primeiras_aplicação_em_Java)
+- [[Optica Geometrica](Lógica Computacional/Exemplos/Óptica Geométrica)
 
 ### Perfil Profissional e Habilidades
 * Pontualidade 
