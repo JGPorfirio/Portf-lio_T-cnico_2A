@@ -21,7 +21,7 @@
 - [JOptionPane](Lógica Computacional/Exemplos/JOptionPane)
 - [Loop infinito](Lógica Computacional/Exemplos/Loop infinito)
 - [Primeiras aplicação em Java](Lógica Computacional/Exemplos/Primeiras_aplicação_em_Java)
-- [[Optica Geometrica](Lógica Computacional/Exemplos/Óptica Geométrica)
+- [Optica Geometrica](Lógica Computacional/Exemplos/Óptica Geométrica)
 
 ### Perfil Profissional e Habilidades
 * Pontualidade 
