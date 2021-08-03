@@ -3,6 +3,10 @@
 ### João Guilherme da Silva Porfirio, 17 anos
 ### São José, 2021
 
+## Fundamentos de TI
+
+- [Exemplo de codigo que lista os usuarios](
+
 ### Perfil Profissional e Habilidades
 * Pontualidade 
 * Criatividade
