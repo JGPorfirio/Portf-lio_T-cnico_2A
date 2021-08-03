@@ -5,7 +5,8 @@
 
 ## Fundamentos de TI
 
-- [Exemplo de codigo que lista os usuarios](
+- [Exemplo de codigo que lista os usuarios](FundamentosTI/Exemplos/teste1.sh)
+- [Exemplo de codigo para ver permissoes do usuario dono](FundamentosTI/Exemplos/teste2.sh)
 
 ### Perfil Profissional e Habilidades
 * Pontualidade 
