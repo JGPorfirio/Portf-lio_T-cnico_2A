@@ -19,9 +19,9 @@
 - [Estrutura de Repetição](LógicaComputacional/Exemplos/Estrutura_de_Repetição)
 - [If/Else + Scanner](LógicaComputacional/Exemplos/IF_e_Else+Scanner)
 - [JOptionPane](LógicaComputacional/Exemplos/JOptionPane)
-- [Loop infinito](LógicaComputacional/Exemplos/Loop infinito)
+- [Loop infinito](LógicaComputacional/Exemplos/Loop_infinito)
 - [Primeiras aplicação em Java](LógicaComputacional/Exemplos/Primeiras_aplicação_em_Java)
-- [Optica Geometrica](LógicaComputacional/Exemplos/Óptica Geométrica)
+- [Optica Geometrica](LógicaComputacional/Exemplos/Óptica_Geométrica)
 
 ### Perfil Profissional e Habilidades
 * Pontualidade 
