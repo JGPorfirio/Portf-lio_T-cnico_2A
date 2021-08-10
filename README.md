@@ -13,6 +13,8 @@
 - [Script Case](FundamentosTI/Exemplos/talk.sh)
 - [Script For](FundamentosTI/Exemplos/tabuada.sh)
 - [Script Fatorial](FundamentosTI/Exemplos/fatorial.sh)
+- [Script da  prova 1](FundamentosTI/avaliacao_pratica/questao1.sh)
+- [Script da  prova 2](FundamentosTI/avaliacao_pratica/questao2.sh)
 
 ## Logica Computacional
 
