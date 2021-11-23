@@ -28,6 +28,7 @@
 ## Logica de Programação
 
 - [PetShop](Logica_De_Programacao/PetShop)
+- [Cadastro_Aluno](Logica_De_Programacao/Cadastro_Aluno)
 
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
