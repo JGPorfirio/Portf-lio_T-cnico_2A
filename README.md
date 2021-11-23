@@ -25,6 +25,10 @@
 - [Primeiras aplicação em Java](LógicaComputacional/Exemplos/Primeiras_aplicação_em_Java)
 - [Optica Geometrica](LógicaComputacional/Exemplos/Óptica_Geométrica)
 
+## Logica de Programação
+
+- [PetShop](Logica_De_Programacao/PetShop)
+
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
 
