@@ -45,7 +45,7 @@
 * Trabalho em equipe
 
 ### Objetivo profissional
-* Procura de primeiro emprego
+* Aprender e praticar JavaScript
 
 ### Qualificações Técnicas
 * Curso Web Moderno (JavaScript, HTML e CSS) - Cod3r (Cursando)
