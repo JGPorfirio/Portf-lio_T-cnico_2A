@@ -38,6 +38,10 @@
 - [Geometria](Programacao_de_Aplicativos/Geometria)
 - [Diferenca_de_Horario](Programacao_de_Aplicativos/Diferenca_de_Horario)
 
+## Modelagem de Sistemas
+- [Geometria](Modelagem_de_Sistemas/Geometria)
+- [Diferenca_de_Horario](Programacao_de_Aplicativos/Diferenca_de_Horario)
+
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
 
