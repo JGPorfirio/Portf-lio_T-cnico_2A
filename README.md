@@ -32,6 +32,7 @@
 
 ## Banco de dados
 - [Table Batman](Banco_de_Dados/table_batman.sql)
+- [Funcoes](Banco_de_Dados/Atividade_de_fixacao-Funcoes.sql)
 
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
