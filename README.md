@@ -57,7 +57,7 @@
 * Trabalho em equipe
 
 ### Objetivo profissional
-* Aprender e praticar JavaScript
+* Programador
 
 ### Qualificações Técnicas
 * Curso Web Moderno (JavaScript, HTML e CSS) - Cod3r (Cursando)
@@ -67,11 +67,10 @@
 * Pacote Office - Word e PowerPoint (intermediário)
 
 ### Formação Acadêmica
-* Escola S - Segundo ano do ensino médio (Cursando)
-* Técnico em desenvolvimento de sistemas (Cursando)
+* Escola S - Ensino Médio Integrado (Cursando)
 
 ### Experiência profissional
-* Nenhuma
+* Estágio Tecnico de TI (BP Promotora)
 
 ### Idiomas
 * Ingles (intermediário)
