@@ -39,7 +39,7 @@
 - [Diferenca_de_Horario](Programacao_de_Aplicativos/Diferenca_de_Horario)
 
 ## Modelagem de Sistemas
-- [Geometria](Modelagem_de_Sistemas/Geometria)
+- [Venda Coca-Cola](Modelagem_de_Sistemas/Venda_CocaCola.pdf)
 - [Diferenca_de_Horario](Programacao_de_Aplicativos/Diferenca_de_Horario)
 
 ## Sobre Mim
