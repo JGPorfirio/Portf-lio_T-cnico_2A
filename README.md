@@ -42,6 +42,9 @@
 - [Venda Coca-Cola](Modelagem_de_Sistemas/Venda_CocaCola.pdf)
 - [Copa do Mundo](Programacao_de_Aplicativos/Copa_do_Mundo.png)
 
+## Autorias
+- [Divisão](Autorias/Divisao.py)
+
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
 
