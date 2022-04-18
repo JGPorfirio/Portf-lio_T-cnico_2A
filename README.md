@@ -31,7 +31,7 @@
 - [Cadastro_Aluno](Logica_De_Programacao/Cadastro_Aluno)
 
 ## Banco de dados
-- [Table Batam](Banco_de_dados/table_batman)
+- [Table Batam](Banco_de_Dados/table_batman)
 
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
