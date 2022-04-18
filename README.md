@@ -40,7 +40,7 @@
 
 ## Modelagem de Sistemas
 - [Venda Coca-Cola](Modelagem_de_Sistemas/Venda_CocaCola.pdf)
-- [Diferenca_de_Horario](Programacao_de_Aplicativos/Diferenca_de_Horario)
+- [Copa do Mundo](Programacao_de_Aplicativos/Copa_do_Mundo.png)
 
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
