@@ -1,7 +1,7 @@
 # Escolha das Atividades
 
-## Atividade_de_fixacao-Funcoes.sql
-- Nessa atividade consegui identificar uma grande utilidade para o dia a dia de um programador
+## Geometria
+- Foi nosso primeiro grande projeto realizado em sala de aula e foi onde achei minhas primeiras dificuldades em TI.
 
-## table_batman.sql
-- Foi a primeira tabela onde consegui criar e realizar tudo pedido com facilidade, por isso escolhi ela!
+## Diferenca de Hora
+- Essa atividade acabei batendo muita cabeça por questão de sintase do codigo, por isso esse codigo me marcou!
