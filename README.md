@@ -36,10 +36,12 @@
 - [Funcoes](Banco_de_Dados/Atividade_de_fixacao-Funcoes.sql)
 
 ## Programacao de Aplicativos
+- [README](Programacao_de_Aplicativos/README.md)
 - [Geometria](Programacao_de_Aplicativos/Geometria)
 - [Diferenca_de_Horario](Programacao_de_Aplicativos/Diferenca_de_Horario)
 
 ## Modelagem de Sistemas
+- [README](Modelagem_de_Sistemas/README.md)
 - [Venda Coca-Cola](Modelagem_de_Sistemas/Venda_CocaCola.pdf)
 - [Copa do Mundo](Programacao_de_Aplicativos/Copa_do_Mundo.png)
 
