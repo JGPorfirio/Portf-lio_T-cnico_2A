@@ -1,7 +1,7 @@
-# Portfólio Técnico 2A
+# Portfólio Técnico
 
 ### João Guilherme da Silva Porfirio, 18 anos
-### São José, 2021
+### São José, 2022
 
 ## Fundamentos de TI
 
