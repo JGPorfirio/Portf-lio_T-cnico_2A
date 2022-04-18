@@ -31,6 +31,7 @@
 - [Cadastro_Aluno](Logica_De_Programacao/Cadastro_Aluno)
 
 ## Banco de dados
+- [README](Banco_de_Dados/README.md)
 - [Table Batman](Banco_de_Dados/table_batman.sql)
 - [Funcoes](Banco_de_Dados/Atividade_de_fixacao-Funcoes.sql)
 
