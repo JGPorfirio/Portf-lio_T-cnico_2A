@@ -34,6 +34,9 @@
 - [Table Batman](Banco_de_Dados/table_batman.sql)
 - [Funcoes](Banco_de_Dados/Atividade_de_fixacao-Funcoes.sql)
 
+## Programacao de Aplicativos
+- [Geometria](Programacao_de_Aplicativos/Geometria)
+
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
 
