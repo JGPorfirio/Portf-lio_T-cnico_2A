@@ -45,6 +45,10 @@
 - [Venda Coca-Cola](Modelagem_de_Sistemas/Venda_CocaCola.pdf)
 - [Copa do Mundo](Programacao_de_Aplicativos/Copa_do_Mundo.png)
 
+## Área Técnica - 2º Trimestre 
+- [Marcola Teste Vocacionais] ()
+- [App do Fumo] ()
+
 ## Autorias
 - [Divisão](Autorias/Divisao.py)
 - [Firebase manipulation PYTHON](https://github.com/DevPorfirio/Firebase_manipulation.git)
