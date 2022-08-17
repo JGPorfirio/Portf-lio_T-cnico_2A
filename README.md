@@ -46,8 +46,8 @@
 - [Copa do Mundo](Programacao_de_Aplicativos/Copa_do_Mundo.png)
 
 ## Área Técnica - 2º Trimestre 
-- [Marcola Teste Vocacionais] (Area_Tecnica_2_Trimestre/Marcola)
-- [App do Fumo] (Area_Tecnica_2_Trimestre/AppDoFumo)
+- [Marcola Teste Vocacionais](Area_Tecnica_2_Trimestre/Marcola)
+- [App do Fumo](Area_Tecnica_2_Trimestre/AppDoFumo)
 
 ## Autorias
 - [Divisão](Autorias/Divisao.py)
