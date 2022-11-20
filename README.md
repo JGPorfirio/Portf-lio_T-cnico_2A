@@ -50,8 +50,7 @@
 - [App do Fumo](Área_Técnica_2_Trimestre/AppDoFumo)
 
 ## Área Técnica - 3º Trimestre 
-- [Marcola Teste Vocacionais](Área_Técnica_2_Trimestre/Marcola)
-- [App do Fumo](Área_Técnica_2_Trimestre/AppDoFumo)
+- [SAEP-NOTA:44/100](Área_Técnica_3_Trimestre/image.png)
 
 ## Autorias
 - [Divisão](Autorias/Divisao.py)
