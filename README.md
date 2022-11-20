@@ -56,6 +56,7 @@
 ## Autorias
 - [Divisão](Autorias/Divisao.py)
 - [Firebase manipulation PYTHON](https://github.com/DevPorfirio/Firebase_manipulation.git)
+- [CONSULTAR-ADE](Autorias/tasks.rar)
 
 ## Sobre Mim
 * Eu nunca cometi o mesmo erro duas vezes ... Eu cometi cinco vezes só para ter certeza de que estava realmente errado!
